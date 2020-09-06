@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## About ME 
+
+Hello There, i am Arind Ragghav a third year Mechanical Engineering student from INDIAN INSTITUTE OF TECHNOLOGY MADRAS , Chennai, India. This page provides a detailed description of the research projects that i've done both under the supervision of a professor and out of my own intrest. each project contains the research process that I went through along with the current status of the project.  
 
 
 ### Markdown
@@ -7,11 +9,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```
 Syntax highlighted code block
-
-As Kanye West said:
-
- > We're living the future so
- > the present is our past.
 
 # Header 1
 ## Header 2
