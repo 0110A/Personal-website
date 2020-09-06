@@ -5,7 +5,7 @@
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-
+```
 Syntax highlighted code block
 
 As Kanye West said:
@@ -24,7 +24,7 @@ As Kanye West said:
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
+```
 [Link](url) and ![Image](src)
 
 
