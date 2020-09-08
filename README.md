@@ -16,7 +16,7 @@ this is a test
 
 #### yes, even hidden code blocks!
 
-```python
+```
 print("hello world!")
 ```
 
