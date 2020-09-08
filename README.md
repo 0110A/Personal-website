@@ -26,7 +26,7 @@ print("hello world!")
 </details>
 
 This is a test image
-![image of earth from space](https://github.com/0110A/Personal-Website/blob/master/space.png)
+![space](https://user-images.githubusercontent.com/57152730/92496629-01b40a00-f216-11ea-9572-e23715c1fb63.png)
 <img src="https://github.com/0110A/Personal-Website/blob/master/space.png" width="800" />
 
 ```
