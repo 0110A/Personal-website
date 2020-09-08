@@ -24,7 +24,7 @@ print("hello world!")
 </details>
 
 This is a test image
-![image of earth from space](https://github.com/0110A/Personal-Website/blob/master/space.jpg)
+![image of earth from space](https://github.com/0110A/Personal-Website/blob/master/space.png)
 ```
 
 Syntax highlighted code block
