@@ -7,6 +7,21 @@ Hello There, i am Arind Ragghav a third year Mechanical Engineering student from
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 [link to non-linear-dynamics](https://0110a.github.io/Non-linear-dynamics-and-fluids/)
+
+this is a test
+## collapsible markdown?
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
+</p>
+</details>
 ```
 Syntax highlighted code block
 
